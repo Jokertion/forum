@@ -1,2 +1,2 @@
 # forum
-cgsss问答区
+cg问答区
