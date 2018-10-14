@@ -17,8 +17,8 @@
 
 
 备注：
-- 常见问题列表：https://github.com/cg3s/forum/wiki/
-- 已解决问题列表：https://github.com/cg3s/forum/issues?q=is%3Aissue+is%3Aclosed
+- .[常见问题列表](https://github.com/cg3s/forum/wiki/)
+- .[已解决问题列表](https://github.com/cg3s/forum/issues?q=is%3Aissue+is%3Aclosed)
 - 如想立即得到我们的回复，请在我们的工作时间内提交问题（工作日的10:00-17:00）
 - 如需上传截图，对敏感信息马赛克后拖拽或拷贝图片到本编辑器中即可。
 
