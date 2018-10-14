@@ -1,8 +1,8 @@
 提交问题请按照格式填写
 
-1-账号：
+1- 账号：
 
-2-操作系统：[Windows|Mac|Linux|iOS|Android]
+2- 操作系统：[Windows|Mac|Linux|iOS|Android]
 
 3- [] 是否已更新节点列表：[是|否]
 
@@ -11,6 +11,10 @@
 5- [] 是否已查看常见问题列表：[是|否]
 
 6- [] 是否已搜索已解决问题列表：[是|否]
+
+7- 问题描述：
+
+
 
 备注：
 - 常见问题列表：https://github.com/cg3s/forum/wiki/
