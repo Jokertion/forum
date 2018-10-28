@@ -2,7 +2,7 @@
 
 - 账号：
 
-- 操作系统：[Windows|Mac|Linux|iOS|Android]
+- 操作系统：[Windows|Mac|Linux|iOS|Android|路由器]
 
 - [ ] 是否已更新节点列表：[是|否]
 
